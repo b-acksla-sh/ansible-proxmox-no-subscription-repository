@@ -1,0 +1,1 @@
+# ansible-proxmox-no-subscription-repository
